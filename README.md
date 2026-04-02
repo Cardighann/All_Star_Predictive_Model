@@ -1,4 +1,4 @@
-Welcome to my project! In this reposiory you will find Finn_Flagg_All-Star.ipynb which 
+Welcome to my project! In this repository you will find Finn_Flagg_All-Star.ipynb which 
 is a Jupyter Notebook file that contains the code I used to get my results.
 
 Additionally, there is Analyst's Journal.docx which is a journal that I made entries in 
